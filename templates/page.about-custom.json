@@ -1,0 +1,194 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "165053684439e81ee9": {
+      "type": "image-with-text",
+      "blocks": {
+        "1650536843e63b955e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Founder Jon",
+            "heading_size": "h1"
+          }
+        },
+        "1650536843e63b955e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1650536843e63b955e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1650536843e63b955e-0",
+        "1650536843e63b955e-1",
+        "1650536843e63b955e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/welcome-to-my-business.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1650536965de25c467": {
+      "type": "image-with-text",
+      "blocks": {
+        "165053696585360c52-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Family Tradition",
+            "heading_size": "h1"
+          }
+        },
+        "165053696585360c52-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "165053696585360c52-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "165053696585360c52-0",
+        "165053696585360c52-1",
+        "165053696585360c52-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/coffee-beans-flat-sideangle.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1650536972d850797f": {
+      "type": "image-with-text",
+      "blocks": {
+        "1650536972ef0f4ae0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "12 Months to Barista",
+            "heading_size": "h1"
+          }
+        },
+        "1650536972ef0f4ae0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1650536972ef0f4ae0-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1650536972ef0f4ae0-0",
+        "1650536972ef0f4ae0-1",
+        "1650536972ef0f4ae0-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pouring-hot-coffee.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1650536979094c0f4b": {
+      "type": "image-with-text",
+      "blocks": {
+        "1650536979091f1f0d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "1650536979091f1f0d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1650536979091f1f0d-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1650536979091f1f0d-0",
+        "1650536979091f1f0d-1",
+        "1650536979091f1f0d-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/making-coffee.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "165053684439e81ee9",
+    "1650536965de25c467",
+    "1650536972d850797f",
+    "1650536979094c0f4b"
+  ]
+}
